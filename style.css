@@ -1,0 +1,57 @@
+body{
+    background-image: url('background\ 3.png');
+    background-repeat:repeat; 
+    background-position: center;
+    background-attachment:fixed;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color:orangered;
+    font-size:1.5cm;
+    font-weight:normal;
+    font-style:unset;
+    font-family:Forte;
+}
+h2{
+    color:deeppink;
+    
+    font-weight: bold;
+    font-family: Viner Hand ITC;
+    text-align:center;
+    font-size: 1cm;
+}
+h3{
+    text-align: center;
+    color:orangered;
+    font-weight: bolder;
+    font-size: 0.8cm;
+    font-family: Baskerville Old Face;
+    
+}
+h4{
+    font-size:xx-large;
+    text-align: center;
+    color:green;
+    font-weight: bold;
+    font-family: Segoe MDL2 Assets;
+}
+p{
+    text-align:right;
+    font-weight: bold;
+    color: cornsilk;
+    
+    
+}
+.wrapper{position:-ms-page;
+    bottom: 30px;
+    left: 10px;
+    max-width: 365px;
+    background-color: crimson;
+    padding: 25px 25px 30px 25px;
+    border-radius: 15px;
+    box-shadow: 1px 7px 14px -5px rgba(0,0,0,0.15);
+    text-align: center;
+    
+}

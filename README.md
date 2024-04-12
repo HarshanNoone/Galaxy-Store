@@ -1,2 +1,7 @@
 # Galaxy-Store
-This is a platform where we can sell the electronic gadgets such as Mobiles, Laptops & Headphones. The tools used for this project are HTML, CSS, JS & PHP. 
+**Tech Stack:**
+HTML, CSS, JAVASCRIPT, PHP
+
+**Features:**
+Login Page, Home Page, Laptop Page, Mobiles Page, Headphones Page, Payment Page, Lucky draw Page, Thank you page.
+In this project the user is able to purchase his wished item among the selling products. 
